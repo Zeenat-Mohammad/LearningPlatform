@@ -9,5 +9,7 @@ package com.LearningPlatfrom.lms;
  * @author zeena
  */
 public class LMS {
-    
+    public static void main(String[] args){
+        
+    }
 }
