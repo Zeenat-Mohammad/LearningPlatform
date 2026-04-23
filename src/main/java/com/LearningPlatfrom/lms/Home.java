@@ -24,7 +24,6 @@ public class Home extends javax.swing.JFrame {
      */
     public Home() {
         initComponents();
-        setLocationRelativeTo(null);
         JPanel panel = new JPanel();
         panel.setOpaque(false);
         JButton signup = new JButton("SIGN UP");
